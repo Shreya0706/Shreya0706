@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning Android Development and Java
 - 👯 I’m looking to collaborate on any Project
 - 📫 How to reach me: shreyagupta070602@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreya0706&label=Profile%20views&color=0e75b6&style=flat" alt="shreya0706" /> </p>
 
