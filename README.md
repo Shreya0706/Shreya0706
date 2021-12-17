@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Shreya0706/Shreya0706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
