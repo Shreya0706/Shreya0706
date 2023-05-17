@@ -25,5 +25,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya0706&" alt="shreya0706" /></p>
 Here are some ideas to get you started:
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/shreyagupta070602?ext=heatmap)
 
 -->
