@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shreya Gupta</h1>
-<h3 align="center">A passionate developer from Vellore Institue Of Technology Bhoapl India</h3>
+<h3 align="center">A passionate developer from Vellore Institue Of Technology Bhopal India</h3>
 
 - 🔭 I’m currently working on Learning skills
 - 🌱 I’m currently learning Android Development and Java
